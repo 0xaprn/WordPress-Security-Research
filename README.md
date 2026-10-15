@@ -279,7 +279,7 @@ Related work outside this repository's scope is available in a separate reposito
 ## Ethics and Legal
 
 > [!WARNING]
-> **All research in this repository is conducted against locally hosted, intentionally vulnerable environments.** No live, third-party, or production systems are targeted at any point. Where a CVE has an existing public disclosure, that disclosure is cited and the timeline is documented in the relevant writeup. Nothing here is zero-day.
+> **All research in this repository is conducted against locally hosted, intentionally vulnerable environments.** No live, third-party, or production systems are targeted at any point. Where a CVE has an existing public disclosure, that disclosure is cited and the timeline is documented in the relevant writeup.
 
 ### Rules for Use
 
