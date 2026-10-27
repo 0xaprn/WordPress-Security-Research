@@ -221,12 +221,6 @@ If a claim cannot be backed by one of those, it does not appear in the writeup.
 | Python | 3.9+ | Required to run the reproducers |
 | Git | any recent | Only needed if cloning rather than downloading |
 
-### Clone the Repository
-
-    git clone https://github.com/aprnx/wordpress-security-research.git
-    cd wordpress-security-research
-
----
 
 ## Running the Code
 
